@@ -18,3 +18,9 @@ Excel | SQL (MySQL Workbench) | Power BI | GitHub
 Applying data analysis to operations/logistics use cases - stock accuracy, risk, efficiency.
 
 Connect: LinkedIn [https://www.linkedin.com/in/athembele-mlobeli-969413241]
+## Week 2 - Completed ✅
+**Project:** Logistics Warehouse EDA
+**Folder:** [Click to view Week2 files](./Week2/)
+- SQL Analysis (8 queries)
+- Power BI Dashboard
+- 5-Page EDA Report
