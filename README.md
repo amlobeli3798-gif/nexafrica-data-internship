@@ -10,7 +10,7 @@ Excel | SQL (MySQL Workbench) | Power BI | GitHub
 ## Structure
 - Week 1: `- Week 1: ✅ Logistics Risk Dashboard - Analyzed 3,205 SKUs, flagged 101 CRITICAL items | [View Files](./Week1/)`
 - Week 2: ✅ Logistics Warehouse EDA - Analyzed 1,000+ records, Stockout & Zone Performance | [View Files](./Week2/)
-- Week 3:
+- Week 3:- Week 3: ✅ Superstore Power BI Analysis - Product & Customer Dashboards, Segmented 793 customers | [View Files](./Week3/)
 - Week 4: Capstone
 - Final Presentation
 
