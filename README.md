@@ -24,9 +24,6 @@ Applying data analysis to operations/logistics use cases - stock accuracy, risk,
 Connect: LinkedIn [https://www.linkedin.com/in/athembele-mlobeli-969413241]
 - Final Presentation
 
-## Focus Area
-Applying data analysis to operations/logistics use cases - stock accuracy, risk, efficiency.
-
 Connect: LinkedIn [https://www.linkedin.com/in/athembele-mlobeli-969413241]
 ## Week 2 - Completed ✅
 **Project:** Logistics Warehouse EDA
