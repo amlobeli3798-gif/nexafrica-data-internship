@@ -11,7 +11,10 @@ Excel | SQL (MySQL Workbench) | Power BI | GitHub
 - Week 1: `- Week 1: ✅ Logistics Risk Dashboard - Analyzed 3,205 SKUs, flagged 101 CRITICAL items | [View Files](./Week1/)`
 - Week 2: ✅ Logistics Warehouse EDA - Analyzed 1,000+ records, Stockout & Zone Performance | [View Files](./Week2/)
 - Week 3:- Week 3: ✅ Superstore Power BI Analysis - Product & Customer Dashboards, Segmented 793 customers | [View Files](./Week3/)
-- Week 4: Capstone
+- Week 4:## Week 4 - Cohort & Business Analysis
+- Discount fix: Binders 37.23%, Tables -17,725 loss
+- Retention 94% drop, cap discount 20%
+- [View Week 4 Details](./Week4/) 
 - Final Presentation
 
 ## Focus Area
