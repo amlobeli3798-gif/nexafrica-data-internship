@@ -18,11 +18,17 @@ Excel | SQL (MySQL Workbench) | Power BI | GitHub
 - **Key Fix:** SA locale dot->comma to fix 3723% bug
 - 📁 [View Week 4 Details](./Week4/)
 
+Final Presentation
+### Week 5 - Superstore 4-Page Excel Dashboard ✅ Completed
+
+- **Executive Overview:** R2,297,201 Sales, R286,397 Profit (12.47%), 5,009 Orders, 793 Customers, R458 AOV
+- **Product Performance:** Top 10 Products, Bottom 10, Technology 15.2% margin (most profitable)
+- **Customer Analysis:** 793 customers segmented (Consumer 33%, Corporate 34%, Home Office 33%), Top Customer 2896 = R12,385
+- **Business Insights:** 5 Findings + 5 Recommendations, AOV opportunity R458 → R600 (+31%)
+- **Key Fix:** Used < > brackets to fix GitHub space bug for 4 dashboard screenshots
+- 📁 [View Week 5 Details](./Week5/)
 ### Focus Area
 Applying data analysis to operations/logistics use cases - stock accuracy, risk, efficiency.
-
-Connect: LinkedIn [https://www.linkedin.com/in/athembele-mlobeli-969413241]
-- Final Presentation
 
 Connect: LinkedIn [https://www.linkedin.com/in/athembele-mlobeli-969413241]
 ## Week 2 - Completed ✅
