@@ -1,26 +1,29 @@
 # NEXAFRICA Superstore Dashboard - Week 5 Final Project
 
 ## 📊 Project Overview
-Built a 4-page interactive Excel dashboard analyzing Superstore transactions (2014-2017).
-
-**Key Metrics:**
-- **Total Sales:** R2,297,201
-- **Total Profit:** R286,397 (12.47% margin)
-- **Total Orders:** 5,009
-- **Total Customers:** 793
-- **Avg Order Value:** R458
-
-## 📁 Files in this Folder
-- `NEXASFRICA_WEEK5_Superstore_Analysis_Athembele...xlsx` - Full 4-page interactive dashboard
-- `Screenshot 2026-10-06 172241.png` - Page 1 Executive Overview
-- `Screenshot 2026-10-06 172531.png` - Page 2 Product Performance  
-- `Screenshot 2026-10-06 172630.png` - Page 3 Customer Analysis
-- `Screenshot 2026-10-06 172703.png` - Page 4 Business Insights
+R2,297,201 Sales | R286,397 Profit | 5,009 Orders | 793 Customers
 
 ## 📑 Dashboard Preview
 
 ### Page 1 - Executive Overview
-![Page 1](Screenshot%202026-10-06%20172241.png)
+![Page1](page1.png)
 
-**7 KPI Cards:** Sales, Profit, Orders, Customers, Quantity, Margin, AOV
-**Charts:** Sales Trend, Sales by Region, Sales
+### Page 2 - Product Performance  
+![Page2](page2.png)
+
+### Page 3 - Customer Analysis
+![Page3](page3.png)
+
+### Page 4 - Business Insights
+![Page4](page4.png)
+
+## 🔍 Insights
+- Technology 15.2% margin (most profitable)
+- Segments balanced 33% each
+- Top Customer 2896 = R12,385
+- Opportunity: AOV R458 → R600
+
+## 📁 File
+- `NEXASFRICA_WEEK5_Superstore_Analysis_Athembele.xlsx`
+
+Author: Athembele | NEXAFRICA Week 5
