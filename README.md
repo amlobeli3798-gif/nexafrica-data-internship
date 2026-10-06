@@ -8,6 +8,7 @@ Transitioning from Warehousing & Logistics into Data Analytics. This repo docume
 Excel | SQL (MySQL Workbench) | Power BI | GitHub
 
 ## Structure
+- ## Week 1 - Completed ✅
 - Week 1: `- Week 1: ✅ Logistics Risk Dashboard - Analyzed 3,205 SKUs, flagged 101 CRITICAL items | [View Files](./Week1/)`
 - Week 2: ✅ Logistics Warehouse EDA - Analyzed 1,000+ records, Stockout & Zone Performance | [View Files](./Week2/)
 - ## Week 2 - Completed ✅
@@ -16,7 +17,8 @@ Excel | SQL (MySQL Workbench) | Power BI | GitHub
 - SQL Analysis (8 queries)
 - Power BI Dashboard
 - 5-Page EDA Report
-
+  
+- ## Week 3 - Completed ✅
 - Week 3:- Week 3: ✅ Superstore Power BI Analysis - Product & Customer Dashboards, Segmented 793 customers | [View Files](./Week3/)
  ## Week 4 - Cohort & Business Analysis ✅ Completed
 - **Cohort Analysis:** Jan 79, Feb 41, Mar 147 new customers, 94% drop after M0
